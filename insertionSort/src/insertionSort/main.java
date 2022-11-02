@@ -5,6 +5,7 @@ public class main
 	
 	public static void insertionSort(int[] arrayList1)
 	{
+		System.out.println("NEW LINE OF CODE");
 		
 		int temp, key, previous = 0;
 		
